@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-n56wk6.boser-guyon.org/sitemap.xml
